@@ -1,0 +1,80 @@
+(in english)
+# Robot Battle Documentation
+
+This document describes the rules, setup, and guidelines for the Robot Battle project.
+
+## Overview
+
+Robot Battle is a competitive event where autonomous or remote-controlled robots face off in an arena. The objective is to disable or push the opponent out of the designated area.
+
+## Rules
+
+1. **Robot Specifications**
+    - Maximum size: 30cm x 30cm x 30cm
+    - Maximum weight: 3kg
+    - No hazardous materials or weapons
+
+2. **Arena**
+    - Circular arena with a diameter of 2 meters
+    - Boundaries are clearly marked
+
+3. **Match Format**
+    - Each match lasts up to 3 minutes
+    - Victory by immobilizing the opponent or pushing them out of the arena
+
+4. **Safety**
+    - All robots must pass a safety inspection
+    - Operators must wear safety goggles
+
+## Getting Started
+
+1. Build your robot according to the specifications.
+2. Test all controls and safety features.
+3. Register your robot for the event.
+
+## Contact
+
+For questions or registration, email: robotbattle@example.com
+
+---
+
+(На руском)
+# Документация по битве роботов
+
+В этом документе описаны правила, настройки и рекомендации проекта «Битва роботов».
+
+## Обзор
+
+Битва роботов — это соревнование, в котором автономные или дистанционно управляемые роботы сражаются на арене. Цель — обезвредить или вытолкнуть противника за пределы обозначенной зоны.
+
+## Правила
+
+1. **Характеристики робота**
+— Максимальный размер: 30 x 30 x 30 см
+— Максимальный вес: 3 кг
+— Запрещены опасные материалы и оружие
+
+2. **Арена**
+— Круглая арена диаметром 2 метра
+— Границы четко обозначены
+
+3. **Формат матча**
+— Каждый матч длится до 3 минут
+— Победа достигается путем обездвиживания противника или выталкивания его за пределы арены
+
+4. **Безопасность**
+— Все роботы должны пройти проверку безопасности
+— Операторы должны носить защитные очки
+
+## Начало работы
+
+1. Соберите робота в соответствии с техническими требованиями.
+2. Проверьте все элементы управления и функции безопасности.
+3. Зарегистрируйте своего робота на мероприятие.
+
+## Контакты
+
+По вопросам и регистрации пишите на robotbattle@example.com
+
+---
+
